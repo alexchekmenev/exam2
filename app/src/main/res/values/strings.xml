@@ -4,5 +4,8 @@
     <string name="app_name">exam2</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="authority">ru.ifmo.md.exam1</string>
+    <string name="title_activity_song">SongActivity</string>
+    <string name="name">Name</string>
 
 </resources>
